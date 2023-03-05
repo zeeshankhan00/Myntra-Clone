@@ -1,0 +1,19 @@
+.flex{
+
+    display: flex;
+}
+.items-center{
+    align-items:center
+}
+
+.justify-content{
+    justify-content: center;
+}
+
+.uppercase{
+    text-transform: uppercase;
+}
+
+.semibold{
+    font-weight: bolder;
+}

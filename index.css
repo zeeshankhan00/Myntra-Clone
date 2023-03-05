@@ -1,0 +1,107 @@
+
+header{
+    box-shadow: rgba(0, 0, 0, 0.19)   0px 5px 8px;
+    position: fixed;
+    display: block;
+    margin: -8px -7px 0px -7px;
+    background-color: white;
+    width: 100%;
+
+
+}
+.con{
+    padding-top: 86px;
+}
+.left img{
+
+
+    height: 43px;
+    width: 65px;
+    margin: 8px 2px 2px 2px;
+}
+.left li {
+    text-decoration: none;
+    list-style: none;
+    padding: 2px 2px 2px 14px;
+}
+.left ul{
+    margin-left: -32px;
+}
+input[type="text"] {
+    width: 281px;
+    padding-left: 10px;
+    background-color: rgb(236, 234, 234);
+    border: none;
+}
+.searchbar {
+    height: 31px;
+    margin: 12px 2px 2px 65px;
+    background-color: rgb(236, 234, 234);
+    padding: 2px 2px 2px 9px;
+    border-radius: 4px;
+}
+.images img{
+    height: 28px;
+    margin: 12px 2px 2px 2px;
+}
+.row1 img{
+    margin-left: 0px;
+    width: 25%
+}
+.row2 img{
+    margin-left: 0px;
+    width: 25%
+}
+.row3 img{
+    margin-left: 0px;
+    width: 25%
+}
+.sectionone{
+    margin-top: 2px;
+}
+.section2 img{
+    width: 100%;
+}
+.section3 img{
+    width: 10%;
+}
+.section4 img{
+    width: 100%;
+}
+.section5 img{
+    width: 12.5%;
+}
+.section6 img{
+    width: 100%;
+}
+.section7 img{
+    width: 20%;
+}
+.section8 img{
+    width: 100%;
+}
+.section9 img{
+    width: 16.66%;
+}
+.section10 img{
+    width: 16.66%;
+}
+.section11 img{
+    width: 16.66%;
+    
+}
+
+footer{
+    text-align: center;
+    padding: 12px 0px;
+    box-shadow: rgba(0, 0, 0, 0.30)   0px 5px 8px;
+    height: 50px;
+}
+
+.images{
+    padding-left: 25px;
+}
+.images img{
+    padding-left: 10px;
+    
+}
